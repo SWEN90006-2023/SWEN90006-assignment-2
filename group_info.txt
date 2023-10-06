@@ -1,19 +1,19 @@
 Group Number:
 
 Member-1:
-- Name:
-- Student ID:
-- Email:
+- Name:Ruoyu Lu
+- Student ID:1466195
+- Email:rlu3@student.unimelb.edu.au
 
 Member-2:
-- Name:
-- Student ID:
-- Email:
+- Name:Chengyi Huang
+- Student ID:1173994
+- Email:chengyih@student.unimelb.edu.au
 
 Member-3:
-- Name:
-- Student ID:
-- Email:
+- Name:Rui Mao
+- Student ID:1469805
+- Email:358054718@qq.com
 
 Member-4:
 - Name:
