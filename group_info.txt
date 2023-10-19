@@ -1,21 +1,21 @@
-Group Number:
+Group Number:7
 
 Member-1:
-- Name:
-- Student ID:
-- Email:
+- Name: Linsheng Ge
+- Student ID:1454293
+- Email:linshengg@student.unimelb.edu.au
 
 Member-2:
-- Name:
-- Student ID:
-- Email:
+- Name:Jiamin Gu
+- Student ID:1393020
+- Email:jgu6@student.unimelb.edu.au
 
 Member-3:
-- Name:
-- Student ID:
-- Email:
+- Name:Jiashi Wang
+- Student ID:1131551
+- Email:jiaswang@student.unimelb.edu.au
 
 Member-4:
-- Name:
-- Student ID:
-- Email:
+- Name:Siyu Chen
+- Student ID:1510362
+- Email:sc9@studnt.unimelb.edu.au
